@@ -18,7 +18,7 @@ def token_er():
         return token
     else:
         print('Invalid Token')
-        ti
+        time.sleep(3)
         return token_er()
 
 token = token_er()
