@@ -3,7 +3,7 @@ Create multiple bots in your developer portal
 
 # Showcases
 - [Youtube Video](https://youtu.be/o_yrXRSEL3M)
-- [GIF Proof](https://github.com/airlone/discord-bot-spammer/images/proof.gif)
+- [GIF Proof](https://github.com/airlone/discord-bot-spammer/blob/main/images/proof.gif)
 
 # Features
 > - [x] Create multiple bots
